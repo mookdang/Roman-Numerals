@@ -1,12 +1,12 @@
-# _Project Title_
+# _Roman Numeral Converter_
 
-#### _Description, Date_
+#### _An exercise using JavaScript to convert to Roman Numerals, 6.11.20_
 
-#### By _**Taylor Phillips**_
+#### By _**Taylor Phillips and Mook Dang**_
 
 ## Description
 
-_Detailed description of the application_
+_This program converts a users number input to roman numeral characters_
 
 ## Setup/Installation Requirements
 
@@ -40,4 +40,4 @@ _VSCode_
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2020 **_Taylor Phillips_**
+Copyright (c) 2020 **_Taylor Phillips and Mook Dang_**
