@@ -6,7 +6,15 @@
 
 ## Description
 
-_This program converts a users number input to roman numeral characters_
+_This program converts a user's number input to roman numeral characters_
+
+|         Behavior        | Input   | Output   |
+| :---------------------: | :-----: | -------: |
+| Numbers provided will be converted to Roman Numerals  | 10  | X |
+| Roman Numeral values are added together | 6 , 9 , 153 | VI , IX , CLIII |
+| It will not contain the same characters more than three times | 90 | XC (rather then LXXXX) |
+| Separate ones, tens, hundreds, and thousands | 99 | XCIX |
+| Roman Numeral don't go higher than 3,999 | 4,000 | alert "Roman Numeral don't go up higher than 3,999" |
 
 ## Setup/Installation Requirements
 
